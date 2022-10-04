@@ -49,9 +49,5 @@ int main(void){
 				GPIOA -> ODR &= ~(1 << 7);			// desliga LED PA7
 			}
 		}
-
-
-
-
-
+	}
 }
